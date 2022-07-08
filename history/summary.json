@@ -22,18 +22,20 @@
     "url": "https://learn.mylocal.gifts",
     "icon": "https://favicons.githubusercontent.com/learn.mylocal.gifts",
     "slug": "my-local-gifts-learnin-hub",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 438,
-    "timeDay": 327,
-    "timeWeek": 438,
-    "timeMonth": 438,
-    "timeYear": 438,
-    "dailyMinutesDown": {}
+    "time": 555,
+    "timeDay": 1024,
+    "timeWeek": 555,
+    "timeMonth": 555,
+    "timeYear": 555,
+    "dailyMinutesDown": {
+      "2022-07-08": 0
+    }
   },
   {
     "name": "Wiltshire Gifts",
