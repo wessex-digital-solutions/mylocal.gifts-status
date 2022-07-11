@@ -5,27 +5,32 @@ repo: mylocal.gifts-status # The name of this repository
 sites:
   - name: About MyLocal Gifts
     url: https://about.mylocal.gifts
-  - name: MyLocal Gifts learnin hub
+  - name: MyLocal Gifts Learning Hub
     url: https://learn.mylocal.gifts
   - name: Wiltshire Gifts
     url: https://www.wiltshiregifts.co.uk
   - name: Somerset Gifts
     url: https://www.somersetgifts.co.uk
+  - name: Hampshire Gifts
+    url: https://www.hampshiregifts.co.uk
+  - name: Gifts from Dorset
+    url: https://www.giftsfromdorset.co.uk
+  - name: Gifts from Devon
+    url: https://www.giftsfromdevon.co.uk
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.mylocal.gifts
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/wessex-digital-solutions/mylocal.gifts-status/master/assets/present.svg
   name: MyLocal Gifts
-  introTitle: "**MyLocal Gifts** is the shop local marketplace network."
+  introTitle: '**MyLocal Gifts** is the shop local marketplace network.'
   introMessage: Check the status of our services.
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
