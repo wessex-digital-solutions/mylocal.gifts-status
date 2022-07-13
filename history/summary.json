@@ -4,18 +4,20 @@
     "url": "https://about.mylocal.gifts",
     "icon": "https://favicons.githubusercontent.com/about.mylocal.gifts",
     "slug": "about-my-local-gifts",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 486,
-    "timeDay": 607,
-    "timeWeek": 465,
-    "timeMonth": 486,
-    "timeYear": 486,
-    "dailyMinutesDown": {}
+    "time": 480,
+    "timeDay": 497,
+    "timeWeek": 458,
+    "timeMonth": 480,
+    "timeYear": 480,
+    "dailyMinutesDown": {
+      "2022-07-13": 0
+    }
   },
   {
     "name": "MyLocal Gifts Learning Hub",
