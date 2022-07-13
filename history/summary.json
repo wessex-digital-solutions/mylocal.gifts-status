@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/about.mylocal.gifts",
     "slug": "about-my-local-gifts",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1210,
     "timeDay": 3404,
     "timeWeek": 1504,
     "timeMonth": 1210,
     "timeYear": 1210,
-    "dailyMinutesDown": {
-      "2022-07-13": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "MyLocal Gifts Learning Hub",
@@ -25,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/learn.mylocal.gifts",
     "slug": "my-local-gifts-learning-hub",
     "status": "up",
-    "uptime": "99.81%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1088,
     "timeDay": 1629,
     "timeWeek": 1088,
     "timeMonth": 1088,
     "timeYear": 1088,
-    "dailyMinutesDown": {
-      "2022-07-13": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wiltshire Gifts",
@@ -81,38 +77,36 @@
     "icon": "https://favicons.githubusercontent.com/www.hampshiregifts.co.uk",
     "slug": "hampshire-gifts",
     "status": "up",
-    "uptime": "99.81%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 450,
     "timeDay": 576,
     "timeWeek": 450,
     "timeMonth": 450,
     "timeYear": 450,
-    "dailyMinutesDown": {
-      "2022-07-13": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Gifts from Dorset",
     "url": "https://www.giftsfromdorset.co.uk",
     "icon": "https://favicons.githubusercontent.com/www.giftsfromdorset.co.uk",
     "slug": "gifts-from-dorset",
-    "status": "down",
-    "uptime": "99.83%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
-    "time": 668,
-    "timeDay": 504,
-    "timeWeek": 668,
-    "timeMonth": 668,
-    "timeYear": 668,
+    "status": "up",
+    "uptime": "99.63%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "99.63%",
+    "time": 631,
+    "timeDay": 512,
+    "timeWeek": 631,
+    "timeMonth": 631,
+    "timeYear": 631,
     "dailyMinutesDown": {
-      "2022-07-13": 5
+      "2022-07-13": 10
     }
   },
   {
