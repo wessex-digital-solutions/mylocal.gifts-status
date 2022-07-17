@@ -94,18 +94,20 @@
     "url": "https://www.giftsfromdorset.co.uk",
     "icon": "https://favicons.githubusercontent.com/www.giftsfromdorset.co.uk",
     "slug": "gifts-from-dorset",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 462,
-    "timeDay": 356,
-    "timeWeek": 462,
-    "timeMonth": 462,
-    "timeYear": 462,
-    "dailyMinutesDown": {}
+    "time": 421,
+    "timeDay": 224,
+    "timeWeek": 421,
+    "timeMonth": 421,
+    "timeYear": 421,
+    "dailyMinutesDown": {
+      "2022-07-17": 0
+    }
   },
   {
     "name": "Gifts from Devon",
