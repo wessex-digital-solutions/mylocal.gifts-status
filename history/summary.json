@@ -4,19 +4,19 @@
     "url": "https://about.mylocal.gifts",
     "icon": "https://favicons.githubusercontent.com/about.mylocal.gifts",
     "slug": "about-my-local-gifts",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 965,
-    "timeDay": 785,
-    "timeWeek": 760,
-    "timeMonth": 888,
-    "timeYear": 965,
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1002,
+    "timeDay": 1428,
+    "timeWeek": 946,
+    "timeMonth": 946,
+    "timeYear": 1002,
     "dailyMinutesDown": {
-      "2022-08-16": 6
+      "2022-08-16": 0
     }
   },
   {
