@@ -115,19 +115,19 @@
     "url": "https://www.giftsfromdevon.co.uk",
     "icon": "https://favicons.githubusercontent.com/www.giftsfromdevon.co.uk",
     "slug": "gifts-from-devon",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 567,
-    "timeDay": 1602,
-    "timeWeek": 710,
-    "timeMonth": 593,
-    "timeYear": 567,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.07%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 561,
+    "timeDay": 1172,
+    "timeWeek": 666,
+    "timeMonth": 585,
+    "timeYear": 561,
     "dailyMinutesDown": {
-      "2022-08-16": 0
+      "2022-08-16": 13
     }
   }
 ]
