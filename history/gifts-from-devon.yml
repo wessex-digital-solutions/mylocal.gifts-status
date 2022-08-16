@@ -1,7 +1,7 @@
 url: https://www.giftsfromdevon.co.uk
-status: up
-code: 200
-responseTime: 493
-lastUpdated: 2022-08-15T23:00:52.681Z
+status: down
+code: 500
+responseTime: 2710
+lastUpdated: 2022-08-16T16:38:08.254Z
 startTime: Mon Jul 11 2022 20:58:12 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
