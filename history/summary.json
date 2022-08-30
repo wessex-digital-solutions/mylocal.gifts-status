@@ -4,19 +4,19 @@
     "url": "https://about.mylocal.gifts",
     "icon": "https://favicons.githubusercontent.com/about.mylocal.gifts",
     "slug": "about-my-local-gifts",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 916,
-    "timeDay": 3026,
-    "timeWeek": 740,
-    "timeMonth": 717,
-    "timeYear": 916,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 910,
+    "timeDay": 2155,
+    "timeWeek": 715,
+    "timeMonth": 711,
+    "timeYear": 910,
     "dailyMinutesDown": {
-      "2022-08-30": 0
+      "2022-08-30": 6
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://learn.mylocal.gifts",
     "icon": "https://favicons.githubusercontent.com/learn.mylocal.gifts",
     "slug": "my-local-gifts-learning-hub",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 622,
-    "timeDay": 232,
-    "timeWeek": 946,
-    "timeMonth": 689,
-    "timeYear": 622,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 621,
+    "timeDay": 356,
+    "timeWeek": 920,
+    "timeMonth": 686,
+    "timeYear": 621,
     "dailyMinutesDown": {
-      "2022-08-30": 0
+      "2022-08-30": 6
     }
   },
   {
@@ -103,19 +103,19 @@
     "url": "https://www.giftsfromdorset.co.uk",
     "icon": "https://favicons.githubusercontent.com/www.giftsfromdorset.co.uk",
     "slug": "gifts-from-dorset",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 333,
-    "timeDay": 189,
-    "timeWeek": 318,
-    "timeMonth": 348,
+    "timeDay": 229,
+    "timeWeek": 317,
+    "timeMonth": 347,
     "timeYear": 333,
     "dailyMinutesDown": {
-      "2022-08-30": 0
+      "2022-08-30": 6
     }
   },
   {
