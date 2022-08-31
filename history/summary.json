@@ -4,19 +4,19 @@
     "url": "https://about.mylocal.gifts",
     "icon": "https://favicons.githubusercontent.com/about.mylocal.gifts",
     "slug": "about-my-local-gifts",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1072,
-    "timeDay": 3443,
-    "timeWeek": 1654,
-    "timeMonth": 1020,
-    "timeYear": 1072,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.57%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
+    "time": 1069,
+    "timeDay": 3067,
+    "timeWeek": 1610,
+    "timeMonth": 1016,
+    "timeYear": 1069,
     "dailyMinutesDown": {
-      "2022-08-31": 0
+      "2022-08-31": 21
     }
   },
   {
@@ -101,19 +101,19 @@
     "url": "https://www.giftsfromdorset.co.uk",
     "icon": "https://favicons.githubusercontent.com/www.giftsfromdorset.co.uk",
     "slug": "gifts-from-dorset",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 365,
-    "timeDay": 731,
-    "timeWeek": 447,
-    "timeMonth": 381,
-    "timeYear": 365,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.09%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.96%",
+    "time": 372,
+    "timeDay": 760,
+    "timeWeek": 471,
+    "timeMonth": 392,
+    "timeYear": 372,
     "dailyMinutesDown": {
-      "2022-08-31": 7
+      "2022-08-31": 28
     }
   },
   {
