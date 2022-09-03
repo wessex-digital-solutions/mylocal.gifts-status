@@ -24,19 +24,19 @@
     "url": "https://learn.mylocal.gifts",
     "icon": "https://favicons.githubusercontent.com/learn.mylocal.gifts",
     "slug": "my-local-gifts-learning-hub",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 658,
-    "timeDay": 1836,
-    "timeWeek": 707,
-    "timeMonth": 733,
-    "timeYear": 658,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 654,
+    "timeDay": 1337,
+    "timeWeek": 686,
+    "timeMonth": 725,
+    "timeYear": 654,
     "dailyMinutesDown": {
-      "2022-09-03": 0
+      "2022-09-03": 9
     }
   },
   {
