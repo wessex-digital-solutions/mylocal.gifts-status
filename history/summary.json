@@ -10,11 +10,11 @@
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
-    "time": 1048,
-    "timeDay": 411,
-    "timeWeek": 1983,
-    "timeMonth": 987,
-    "timeYear": 1048,
+    "time": 1040,
+    "timeDay": 305,
+    "timeWeek": 1973,
+    "timeMonth": 985,
+    "timeYear": 1040,
     "dailyMinutesDown": {
       "2022-08-31": 21
     }
@@ -25,19 +25,17 @@
     "icon": "https://favicons.githubusercontent.com/learn.mylocal.gifts",
     "slug": "my-local-gifts-learning-hub",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 654,
-    "timeDay": 1337,
-    "timeWeek": 686,
-    "timeMonth": 725,
-    "timeYear": 654,
-    "dailyMinutesDown": {
-      "2022-09-03": 9
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 649,
+    "timeDay": 1271,
+    "timeWeek": 683,
+    "timeMonth": 720,
+    "timeYear": 649,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wiltshire Gifts",
@@ -50,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 759,
-    "timeDay": 745,
-    "timeWeek": 714,
-    "timeMonth": 731,
-    "timeYear": 759,
+    "time": 756,
+    "timeDay": 610,
+    "timeWeek": 695,
+    "timeMonth": 727,
+    "timeYear": 756,
     "dailyMinutesDown": {}
   },
   {
@@ -68,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.23%",
-    "time": 720,
-    "timeDay": 847,
-    "timeWeek": 643,
-    "timeMonth": 646,
-    "timeYear": 720,
+    "time": 716,
+    "timeDay": 463,
+    "timeWeek": 606,
+    "timeMonth": 639,
+    "timeYear": 716,
     "dailyMinutesDown": {
       "2022-07-20": 230,
       "2022-07-19": 454
@@ -89,11 +87,11 @@
     "uptimeWeek": "99.22%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.90%",
-    "time": 331,
-    "timeDay": 784,
-    "timeWeek": 725,
-    "timeMonth": 343,
-    "timeYear": 331,
+    "time": 334,
+    "timeDay": 525,
+    "timeWeek": 761,
+    "timeMonth": 351,
+    "timeYear": 334,
     "dailyMinutesDown": {
       "2022-08-29": 79
     }
@@ -109,11 +107,11 @@
     "uptimeWeek": "99.73%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
-    "time": 372,
-    "timeDay": 637,
-    "timeWeek": 503,
-    "timeMonth": 400,
-    "timeYear": 372,
+    "time": 368,
+    "timeDay": 76,
+    "timeWeek": 489,
+    "timeMonth": 396,
+    "timeYear": 368,
     "dailyMinutesDown": {
       "2022-08-31": 28
     }
@@ -130,9 +128,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 563,
-    "timeDay": 520,
-    "timeWeek": 483,
-    "timeMonth": 578,
+    "timeDay": 523,
+    "timeWeek": 499,
+    "timeMonth": 579,
     "timeYear": 563,
     "dailyMinutesDown": {}
   }
