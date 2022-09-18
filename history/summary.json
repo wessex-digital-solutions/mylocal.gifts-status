@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
-    "time": 1090,
-    "timeDay": 452,
-    "timeWeek": 1213,
-    "timeMonth": 1244,
-    "timeYear": 1090,
+    "time": 1083,
+    "timeDay": 293,
+    "timeWeek": 1181,
+    "timeMonth": 1236,
+    "timeYear": 1083,
     "dailyMinutesDown": {
       "2022-08-31": 21
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 749,
-    "timeDay": 418,
+    "time": 745,
+    "timeDay": 412,
     "timeWeek": 791,
     "timeMonth": 918,
-    "timeYear": 749,
+    "timeYear": 745,
     "dailyMinutesDown": {}
   },
   {
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 755,
-    "timeDay": 791,
-    "timeWeek": 746,
-    "timeMonth": 728,
+    "timeDay": 792,
+    "timeWeek": 780,
+    "timeMonth": 723,
     "timeYear": 755,
     "dailyMinutesDown": {}
   },
@@ -61,16 +61,16 @@
     "icon": "https://favicons.githubusercontent.com/www.somersetgifts.co.uk",
     "slug": "somerset-gifts",
     "status": "up",
-    "uptime": "99.37%",
+    "uptime": "99.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.37%",
-    "time": 712,
-    "timeDay": 935,
-    "timeWeek": 661,
-    "timeMonth": 656,
-    "timeYear": 712,
+    "uptimeYear": "99.38%",
+    "time": 713,
+    "timeDay": 751,
+    "timeWeek": 690,
+    "timeMonth": 654,
+    "timeYear": 713,
     "dailyMinutesDown": {
       "2022-07-20": 230,
       "2022-07-19": 454
@@ -87,11 +87,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.92%",
-    "time": 392,
-    "timeDay": 723,
-    "timeWeek": 656,
-    "timeMonth": 512,
-    "timeYear": 392,
+    "time": 395,
+    "timeDay": 652,
+    "timeWeek": 666,
+    "timeMonth": 524,
+    "timeYear": 395,
     "dailyMinutesDown": {
       "2022-08-29": 79
     }
@@ -107,11 +107,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
-    "time": 359,
-    "timeDay": 342,
-    "timeWeek": 278,
-    "timeMonth": 371,
-    "timeYear": 359,
+    "time": 358,
+    "timeDay": 259,
+    "timeWeek": 277,
+    "timeMonth": 370,
+    "timeYear": 358,
     "dailyMinutesDown": {
       "2022-08-31": 28
     }
@@ -127,11 +127,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 592,
-    "timeDay": 459,
-    "timeWeek": 704,
-    "timeMonth": 631,
-    "timeYear": 592,
+    "time": 591,
+    "timeDay": 498,
+    "timeWeek": 702,
+    "timeMonth": 635,
+    "timeYear": 591,
     "dailyMinutesDown": {}
   }
 ]
