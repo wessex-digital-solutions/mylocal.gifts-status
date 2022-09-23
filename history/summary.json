@@ -61,11 +61,11 @@
     "icon": "https://favicons.githubusercontent.com/www.somersetgifts.co.uk",
     "slug": "somerset-gifts",
     "status": "up",
-    "uptime": "99.41%",
+    "uptime": "99.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.41%",
+    "uptimeYear": "99.42%",
     "time": 717,
     "timeDay": 775,
     "timeWeek": 809,
@@ -89,7 +89,7 @@
     "uptimeYear": "99.93%",
     "time": 418,
     "timeDay": 719,
-    "timeWeek": 762,
+    "timeWeek": 777,
     "timeMonth": 589,
     "timeYear": 418,
     "dailyMinutesDown": {
@@ -121,17 +121,19 @@
     "url": "https://www.giftsfromdevon.co.uk",
     "icon": "https://favicons.githubusercontent.com/www.giftsfromdevon.co.uk",
     "slug": "gifts-from-devon",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 581,
-    "timeDay": 498,
-    "timeWeek": 448,
-    "timeMonth": 594,
-    "timeYear": 581,
-    "dailyMinutesDown": {}
+    "time": 721,
+    "timeDay": 5990,
+    "timeWeek": 1827,
+    "timeMonth": 934,
+    "timeYear": 721,
+    "dailyMinutesDown": {
+      "2022-09-23": 0
+    }
   }
 ]
