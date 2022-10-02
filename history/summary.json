@@ -2,7 +2,7 @@
   {
     "name": "About MyLocal Gifts",
     "url": "https://about.mylocal.gifts",
-    "icon": "https://favicons.githubusercontent.com/about.mylocal.gifts",
+    "icon": "https://icons.duckduckgo.com/ip3/about.mylocal.gifts.ico",
     "slug": "about-my-local-gifts",
     "status": "up",
     "uptime": "99.98%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1038,
-    "timeDay": 299,
-    "timeWeek": 844,
-    "timeMonth": 965,
-    "timeYear": 1038,
+    "time": 1032,
+    "timeDay": 197,
+    "timeWeek": 716,
+    "timeMonth": 963,
+    "timeYear": 1032,
     "dailyMinutesDown": {
       "2022-08-31": 21
     }
@@ -22,7 +22,7 @@
   {
     "name": "MyLocal Gifts Learning Hub",
     "url": "https://learn.mylocal.gifts",
-    "icon": "https://favicons.githubusercontent.com/learn.mylocal.gifts",
+    "icon": "https://icons.duckduckgo.com/ip3/learn.mylocal.gifts.ico",
     "slug": "my-local-gifts-learning-hub",
     "status": "up",
     "uptime": "100.00%",
@@ -30,17 +30,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 739,
-    "timeDay": 468,
-    "timeWeek": 388,
-    "timeMonth": 961,
-    "timeYear": 739,
+    "time": 735,
+    "timeDay": 326,
+    "timeWeek": 360,
+    "timeMonth": 957,
+    "timeYear": 735,
     "dailyMinutesDown": {}
   },
   {
     "name": "Wiltshire Gifts",
     "url": "https://www.wiltshiregifts.co.uk",
-    "icon": "https://favicons.githubusercontent.com/www.wiltshiregifts.co.uk",
+    "icon": "https://icons.duckduckgo.com/ip3/www.wiltshiregifts.co.uk.ico",
     "slug": "wiltshire-gifts",
     "status": "up",
     "uptime": "100.00%",
@@ -48,17 +48,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 759,
-    "timeDay": 607,
-    "timeWeek": 719,
-    "timeMonth": 763,
-    "timeYear": 759,
+    "time": 757,
+    "timeDay": 568,
+    "timeWeek": 670,
+    "timeMonth": 752,
+    "timeYear": 757,
     "dailyMinutesDown": {}
   },
   {
     "name": "Somerset Gifts",
     "url": "https://www.somersetgifts.co.uk",
-    "icon": "https://favicons.githubusercontent.com/www.somersetgifts.co.uk",
+    "icon": "https://icons.duckduckgo.com/ip3/www.somersetgifts.co.uk.ico",
     "slug": "somerset-gifts",
     "status": "up",
     "uptime": "99.47%",
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.47%",
-    "time": 712,
-    "timeDay": 547,
-    "timeWeek": 647,
-    "timeMonth": 699,
-    "timeYear": 712,
+    "time": 710,
+    "timeDay": 554,
+    "timeWeek": 602,
+    "timeMonth": 693,
+    "timeYear": 710,
     "dailyMinutesDown": {
       "2022-07-20": 230,
       "2022-07-19": 454
@@ -79,7 +79,7 @@
   {
     "name": "Hampshire Gifts",
     "url": "https://www.hampshiregifts.co.uk",
-    "icon": "https://favicons.githubusercontent.com/www.hampshiregifts.co.uk",
+    "icon": "https://icons.duckduckgo.com/ip3/www.hampshiregifts.co.uk.ico",
     "slug": "hampshire-gifts",
     "status": "up",
     "uptime": "99.93%",
@@ -87,11 +87,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 474,
-    "timeDay": 525,
-    "timeWeek": 1149,
-    "timeMonth": 825,
-    "timeYear": 474,
+    "time": 476,
+    "timeDay": 646,
+    "timeWeek": 1131,
+    "timeMonth": 805,
+    "timeYear": 476,
     "dailyMinutesDown": {
       "2022-08-29": 79
     }
@@ -99,7 +99,7 @@
   {
     "name": "Gifts from Dorset",
     "url": "https://www.giftsfromdorset.co.uk",
-    "icon": "https://favicons.githubusercontent.com/www.giftsfromdorset.co.uk",
+    "icon": "https://icons.duckduckgo.com/ip3/www.giftsfromdorset.co.uk.ico",
     "slug": "gifts-from-dorset",
     "status": "up",
     "uptime": "99.98%",
@@ -107,11 +107,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 360,
-    "timeDay": 90,
-    "timeWeek": 264,
-    "timeMonth": 337,
-    "timeYear": 360,
+    "time": 359,
+    "timeDay": 216,
+    "timeWeek": 250,
+    "timeMonth": 335,
+    "timeYear": 359,
     "dailyMinutesDown": {
       "2022-08-31": 28
     }
@@ -119,7 +119,7 @@
   {
     "name": "Gifts from Devon",
     "url": "https://www.giftsfromdevon.co.uk",
-    "icon": "https://favicons.githubusercontent.com/www.giftsfromdevon.co.uk",
+    "icon": "https://icons.duckduckgo.com/ip3/www.giftsfromdevon.co.uk.ico",
     "slug": "gifts-from-devon",
     "status": "up",
     "uptime": "99.99%",
@@ -127,11 +127,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
-    "time": 705,
-    "timeDay": 663,
-    "timeWeek": 581,
-    "timeMonth": 939,
-    "timeYear": 705,
+    "time": 703,
+    "timeDay": 532,
+    "timeWeek": 593,
+    "timeMonth": 945,
+    "timeYear": 703,
     "dailyMinutesDown": {
       "2022-09-23": 15
     }
