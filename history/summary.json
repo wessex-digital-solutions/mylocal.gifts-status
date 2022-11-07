@@ -123,19 +123,19 @@
     "url": "https://www.giftsfromdevon.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.giftsfromdevon.co.uk.ico",
     "slug": "gifts-from-devon",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
-    "time": 658,
-    "timeDay": 351,
-    "timeWeek": 481,
+    "time": 657,
+    "timeDay": 417,
+    "timeWeek": 489,
     "timeMonth": 534,
-    "timeYear": 658,
+    "timeYear": 657,
     "dailyMinutesDown": {
-      "2022-11-07": 0,
+      "2022-11-07": 8,
       "2022-09-23": 15
     }
   }
