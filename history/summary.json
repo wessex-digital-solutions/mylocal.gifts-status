@@ -104,9 +104,9 @@
     "url": "https://www.giftsfromdorset.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.giftsfromdorset.co.uk.ico",
     "slug": "gifts-from-dorset",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -116,6 +116,7 @@
     "timeMonth": 501,
     "timeYear": 374,
     "dailyMinutesDown": {
+      "2023-01-08": 0,
       "2022-08-31": 28
     }
   },
@@ -124,9 +125,9 @@
     "url": "https://www.giftsfromdevon.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.giftsfromdevon.co.uk.ico",
     "slug": "gifts-from-devon",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -136,6 +137,7 @@
     "timeMonth": 507,
     "timeYear": 614,
     "dailyMinutesDown": {
+      "2023-01-08": 0,
       "2022-09-23": 15
     }
   }
