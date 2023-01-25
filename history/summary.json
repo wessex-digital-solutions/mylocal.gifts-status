@@ -84,9 +84,9 @@
     "url": "https://www.hampshiregifts.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.hampshiregifts.co.uk.ico",
     "slug": "hampshire-gifts",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -96,6 +96,7 @@
     "timeMonth": 979,
     "timeYear": 698,
     "dailyMinutesDown": {
+      "2023-01-25": 0,
       "2022-08-29": 79
     }
   },
