@@ -46,10 +46,10 @@
     "url": "https://www.wiltshiregifts.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.wiltshiregifts.co.uk.ico",
     "slug": "wiltshire-gifts",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 826,
@@ -57,16 +57,18 @@
     "timeWeek": 634,
     "timeMonth": 721,
     "timeYear": 826,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-05": 2
+    }
   },
   {
     "name": "Somerset Gifts",
     "url": "https://www.somersetgifts.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.somersetgifts.co.uk.ico",
     "slug": "somerset-gifts",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
@@ -76,6 +78,7 @@
     "timeMonth": 608,
     "timeYear": 690,
     "dailyMinutesDown": {
+      "2023-05-05": 0,
       "2022-07-20": 230,
       "2022-07-19": 454
     }
